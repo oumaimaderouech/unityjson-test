@@ -1,0 +1,19 @@
+[
+   {
+       "Name":"Presentation 1",
+       "Description":"Actuellement en cours de traitement 1",
+       "IconUrl":"https://upload.wikimedia.org/wikipedia/commons/7/7d/Drapeau_Marocain.png"
+   },
+
+   {
+       "Name":"Pres 2",
+       "Description":"Actuellement en cours de traitement 2",
+       "IconUrl":"https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Flag_Map_of_Morocco_with_Western_Sahara.svg/2121px-Flag_Map_of_Morocco_with_Western_Sahara.svg.png"
+   },
+
+   {
+       "Name":".Pres 3",
+       "Description":"Actuellement en cours de traitement 3",
+       "IconUrl":"https://www.pngitem.com/pimgs/m/404-4045791_star-morocco-flag-hd-png-download.png"
+   }
+]
